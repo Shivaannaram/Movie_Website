@@ -1,0 +1,21 @@
+
+.header{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+}
+
+.link{
+    text-decoration: none;
+    color:white;
+    margin-left: 20px;
+}
+.header__image{
+    width:100px;
+}
+.link:hover{
+    color:red;
+    background-color: lightgreen;
+    padding:10px;
+    border-radius: 10px;
+}   
